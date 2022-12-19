@@ -8,7 +8,7 @@ RISC: Reduced Instruction Set Computing (감소된 명령 집합 컴퓨팅)
 단순한 명령 집합을 가진 프로세서가 복잡한 명령 집합을 가진 프로세서보다 훨씬 더 효율적이지 않을까?로 탄생
 
 ## ARM 구조  
-![Markdown Preview](ARM%EA%B5%AC%EC%A1%B0.jpeg)
+![ARM구조](https://user-images.githubusercontent.com/75096085/208411447-4b8711cb-9d9a-47ec-9584-0d33e9c69613.jpeg)  
 
 ARM은 칩의 기본 설계 구조만 만들고, 실제 기능 추가와 최적화 부분은 개별 반도체 제조사의 영역으로 맡긴다. 따라서 물리적 설계는 같아도, 명령 집합이 모두 다르기 때문에 서로 다른 칩이 되기도 하는 것이 ARM.
 
