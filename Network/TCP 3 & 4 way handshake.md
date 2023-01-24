@@ -18,6 +18,9 @@ TCP는 정확한 전송을 보장해야 함. 따라서 통신하기에 앞서, �
 
 <br>
 
+![image](https://user-images.githubusercontent.com/75096085/214343633-67dc5494-739e-443f-8b46-4b10fd5da4cb.png)
+
+<br>
 ### 1단계
 
 클라이언트 측 TCP는 서버 TCP에게 특별한 TCP 세그먼트인 **SYN 세그먼트**를 송신함.
@@ -32,7 +35,7 @@ TCP SYN 세그먼트를 포함하는 IP 데이터그램이 서버 호스트에 �
 
 그리고 연결해 TCP버퍼와 변수들을 할당함.
 
-또한 클라이언트 TCP로 **연결 승인 세그먼트(SYNACK)**를 송신함. 
+또한 클라이언트 TCP로 연결 승인 세그먼트(**SYNACK**)를 송신함. 
 
 
 <br>
@@ -57,6 +60,10 @@ SYNACK 세그먼트를 수신하면, 클라이언트는 연결에 버퍼와 변�
 <br>
 
 클라이언트가 연결 종료를 결정한다고 가정할 떄,
+
+<br>
+
+![image](https://user-images.githubusercontent.com/75096085/214343714-84625cfd-2ca3-4853-92c7-3ae79b7e9681.png)
 
 <br>
 
