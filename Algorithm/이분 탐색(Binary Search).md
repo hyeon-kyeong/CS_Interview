@@ -14,7 +14,7 @@
 
 &nbsp;&nbsp;&nbsp;3-1. arr[mid]가 찾는 값보다 작다면 start를 mid + 1로 지정하고 2번 과정부터 다시 진행
 
-&nbsp;&nbsp;&nbsp;3-2. arr[mid]가 찾는 값보다 크다면 end를 mid + 1로 지정하고 2번 과정부터 다시 진행
+&nbsp;&nbsp;&nbsp;3-2. arr[mid]가 찾는 값보다 크다면 end를 mid - 1로 지정하고 2번 과정부터 다시 진행
 
 4. 값을 찾지 못했을 때 위의 과정을 start < end동안 계속해서 반복함
 
