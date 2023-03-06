@@ -108,21 +108,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;8주차<br>2023.01.30</td>
-			<td><strong><a href="https://github.com/hyeon-kyeong/CS_Interview/tree/main/Software%20Engineering">Software Engineering</a></strong></td>
-			<td><strong>1. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EC%99%80%20%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81.md">클린코드 & 리팩토링</a></strong><br>
-				<strong>2. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%EC%BD%94%EB%94%A9.md">클린코드 & 시큐어코딩</a></strong><br>
-				<strong>3. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/TDD(Test%20Driven%20Development).md">TDD(Test Driven Development)</a></strong><br>
-				<strong>4. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/%EC%95%A0%EC%9E%90%EC%9D%BC(Agile).md">애자일(Agile)</a></strong><br>
-				<strong>5. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">객체지향 프로그래밍</a></strong><br>
-				<strong>6. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md">함수형 프로그래밍</a></strong><br>
-				<strong>7. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/DevOps.md">DevOps</a></strong><br>
-				<strong>8. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/3rd%20party.md">3rd party</a></strong><br>
-        <strong>9. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Software%20Engineering/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).md">마이크로서비스 아키텍처(MSA)</a></strong>
-			</td>
-		</tr>
-		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;9주차<br>2023.02.13</td>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;8주차<br>2023.02.13</td>
 			<td><strong><a href="https://github.com/hyeon-kyeong/CS_Interview/tree/main/Algorithm">Algorithm</a></strong></td>
 			<td><strong>1. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Algorithm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC.md">거품 정렬(Bubble Sort)</a></strong><br>
 				<strong>2. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Algorithm/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md">선택 정렬(Selection Sort)</a></strong><br>
@@ -135,7 +121,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;10주차<br>2023.02.20</td>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;9주차<br>2023.02.20</td>
 			<td><strong><a href="https://github.com/hyeon-kyeong/CS_Interview/tree/main/Algorithm">Algorithm</a></strong></td>
 			<td><strong>1. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Algorithm/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md">이분 탐색(Binary Search)</a></strong><br>
 				<strong>2. <a href="https://github.com/hyeon-kyeong/CS_Interview/blob/main/Algorithm/%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94(Hash%20Table).md">해시 테이블(Hash Table)</a></strong><br>
@@ -148,7 +134,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;11주차<br>2023.02.27</td>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;10주차<br>2023.02.27</td>
 			<td><strong>복습</a></strong></td>
 			<td><strong>1. <a href="https://github.com/hyeon-kyeong/CS_Interview/tree/main/Computer%20Architecture">Computer Architecture</a></strong><br>
 				<strong>2. <a href="https://github.com/hyeon-kyeong/CS_Interview/tree/main/Data%20Structure">Data Structure</a></strong><br>
@@ -157,7 +143,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>&nbsp;&nbsp;&nbsp;&nbsp;12주차<br>2023.03.06</td>
+			<td>&nbsp;&nbsp;&nbsp;&nbsp;11주차<br>2023.03.06</td>
 			<td><strong>복습</strong></td>
 			<td><strong>1. <a href="https://github.com/hyeon-kyeong/CS_Interview/tree/main/Network">Network</a></strong><br>
 				<strong>2. <a href="https://github.com/hyeon-kyeong/CS_Interview/tree/main/Software%20Engineering">Software Engineering</a></strong><br>
